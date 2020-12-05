@@ -1,7 +1,3 @@
-<p align="center">
-  <img height="100" src="https://i.imgur.com/vOjrlin.png" alt="BorisBelloc">                                                  
-</p>
-
 ### Project structure : 
 
 Home component is inside `../views/home` folder
