@@ -5,6 +5,7 @@
 ### Project structure : 
 
 Home component is inside `../views/home` folder
+
 Btn-to-top is inside `../module/navigation/components`
 
 ### Technos :
