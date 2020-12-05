@@ -1,0 +1,15 @@
+bb-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(200%);
+  &.show {
+    transform: translateX(0%);
+  }
+
+  #btn-to-top {
+    height: 50px;
+    width: 50px;
+  }
+}
